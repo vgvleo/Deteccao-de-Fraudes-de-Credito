@@ -1,4 +1,4 @@
-# Projeto de Estudo em Machine Learning
+# Projeto de Estudo em Machine Learning - Detecção de Fraudes de Crédito
 
 Este projeto é parte de um estudo introdutório em machine learning, com o objetivo de entender o processo de criação e desenvolvimento de abordagens preditivas para negócios. O projeto utiliza um conjunto de dados de transações de cartão de crédito disponível no Kaggle.
 
@@ -24,12 +24,12 @@ O repositório está estruturado da seguinte forma:
 - Pandas
 - Matplotlib
 - Seaborn
-- scikit-learn
+- Scikit-learn
 
 ## Como Utilizar
 
 1. Clone este repositório para sua máquina local.
-2. Instale as dependências necessárias (Pandas, Matplotlib, Seaborn, scikit-learn).
+2. Instale as dependências necessárias (Pandas, Matplotlib, Seaborn, Scikit-learn).
 3. Execute os notebooks Jupyter para explorar a análise de dados e os modelos de machine learning.
 
 ## Contribuições
